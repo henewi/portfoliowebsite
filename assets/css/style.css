@@ -473,10 +473,12 @@ section {
   border-radius: 5%;
   box-shadow: 2px 3px 10px #27282941;
   max-height: 80%;
+  
 }
 
 .about .container .row {
   max-height: 700px;
+  padding-bottom: 10px;
 }
 
 /*--------------------------------------------------------------
