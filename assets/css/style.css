@@ -8,6 +8,18 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.logo {
+  position: fixed;
+  left: 15px;
+  top: 15px;
+  z-index: 996;
+}
+
+#logopng {
+  max-width: 3em;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
