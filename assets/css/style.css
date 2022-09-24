@@ -9,6 +9,10 @@
 # General
 --------------------------------------------------------------*/
 
+p {
+  font-family: 'Kanit', sans-serif;
+}
+
 .logo {
   position: fixed;
   left: 15px;
